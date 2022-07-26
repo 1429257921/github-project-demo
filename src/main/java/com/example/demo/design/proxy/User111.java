@@ -1,14 +1,13 @@
 package com.example.demo.design.proxy;
 
 /**
- * 测试类
+ * 测试
  *
  * @author gzc
- * @since 2022-7-22 15:05
+ * @since 2022-7-22 16:15
  **/
-public class UserDaoImpl implements UserDao{
+public class User111 {
 
-	@Override
 	public String queryById(String id) {
 		return null;
 	}
